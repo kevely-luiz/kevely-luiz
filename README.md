@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kevely-luiz
+- 👀 I’m interested in make strong connections with other devs.
+- 🌱 I’m currently learning JavaScript, Node.JS, SQLite and other hype techs.
+- 📫 How to reach me kevelyluiz@gmail.com
