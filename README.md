@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kevely-luiz
 - 👀 I’m interested in make strong connections with other devs.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.JS, SQLite and other hype techs.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Node.JS, SQLite.
 - 📫 How to reach me kevelyluiz@gmail.com
