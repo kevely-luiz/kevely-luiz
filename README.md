@@ -1,16 +1,13 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kevely Luiz</h1>
-<a href="https://open.spotify.com/user/great1214">
-  <img align="left" alt="Kevely's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+<h1 align="left">Hi, I'm Kevely Luiz</h1>
+
 <br><br>
 
 - 🔥 Web Developer Front-End
 
 - 👨‍💻 All of my projects are available at [github.com/kevely-luiz](https://github.com/kevely-luiz)
 
-- 💪 Actually learning about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💪 Actually learning about **ReactJS**
 
-- ⚡ Take a look on my Spotify's profile!!
 
 <br><br>
 
