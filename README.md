@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/kevely-luiz](https://github.com/kevely-luiz)
 
-- 💪 Actually learning about **ReactJS**
+- 💪 Actually learning about **relational DBs**
 
 
 <br><br>
