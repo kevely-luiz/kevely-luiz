@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/kevely-luiz](https://github.com/kevely-luiz)
 
-- 💪 Actually learning about **relational DBs**
+- 💪 Actually learning about 
 
 
 <br><br>
